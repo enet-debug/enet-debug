@@ -1,125 +1,89 @@
-
 <div align="center">
 
-<img src="assets/enet-banner.png" width="100%" alt="eNet Developer" />
-
-<br/>
-
-# eNet Developer
-
-### Независимая команда разработчиков
-
-Создаём приложения, модификации и цифровые продукты.
-Исследуем новые возможности и превращаем идеи в работающие проекты.
-
-<br/>
-
-<a href="https://t.me/enetwork_dev">
-  <img src="https://img.shields.io/badge/Telegram-Сообщество-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 <a href="https://github.com/enet-debug">
-  <img src="https://img.shields.io/badge/GitHub-Репозитории-171717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="./media/enet-banner.svg" alt="eNet Developer · Приложения, модификации, новые идеи" width="100%" />
 </a>
+
+<br/><br/>
+
+**Независимая команда разработчиков цифровых продуктов.**  
+Создаём собственные приложения, модификации и инструменты, которыми приятно пользоваться.
+
+<br/>
+
+<a href="https://t.me/enetwork_dev"><img src="./media/telegram.svg" height="44" alt="Telegram eNetwork"/></a>&nbsp;
+<a href="https://github.com/enet-debug?tab=repositories"><img src="./media/github.svg" height="44" alt="Репозитории GitHub"/></a>
 
 </div>
 
----
-
-## О команде
-
-**eNet Developer** — команда, объединяющая разработку программного обеспечения, модификации и экспериментальные цифровые проекты.
-
-Мы работаем над собственными продуктами, исследуем новые идеи и создаём инструменты, которые расширяют привычные возможности приложений.
-
-Наша цель — не просто выпускать программное обеспечение, а создавать продукты с собственным характером, продуманным интерфейсом и вниманием к деталям.
-
----
+<br/>
 
 ## Наши проекты
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://t.me/TraficWatchBot"><img src="./media/traficwatch.svg" width="100%" alt="TraficWatch"/></a>
 
-<h3>◈ TraficWatch</h3>
+**TraficWatch**  
+Telegram Business-бот для сохранения удалённых сообщений и истории правок, поиска по архиву и дополнительных инструментов безопасности.
 
-Инструмент для Telegram Business, позволяющий сохранять историю изменений и удалённых сообщений, вести личный архив и использовать дополнительные инструменты безопасности.
-
-**Статус:** Работает
-
-<a href="https://t.me/TraficWatchBot">
-<img src="https://img.shields.io/badge/Открыть_проект-00BFFF?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
+🟢 **Работает** · [Открыть бота](https://t.me/TraficWatchBot)
 
 </td>
 <td width="50%" valign="top">
+<a href="https://t.me/hudigram"><img src="./media/hudigram.svg" width="100%" alt="HudiGram"/></a>
 
-<h3>◈ HudiGram</h3>
+**HudiGram**  
+Разрабатываемый альтернативный клиент Telegram с собственным интерфейсом и дополнительными возможностями.
 
-Альтернативный клиент Telegram с собственным подходом к интерфейсу и пользовательскому опыту.
-
-**Статус:** В разработке
-
-<a href="https://t.me/hudigram">
-<img src="https://img.shields.io/badge/Следить_за_проектом-00BFFF?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
+🔵 **В разработке** · [Новости проекта](https://t.me/hudigram)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="./media/enet-app.svg" width="100%" alt="eNet App"/>
 
-<h3>◈ eNet App</h3>
+**eNet App**  
+Будущее приложение команды с каталогом модификаций, дополнений и собственных продуктов.
 
-Будущая платформа для каталога модификаций, дополнений и собственных разработок команды.
-
-**Статус:** Формирование концепции
+⚪ **На стадии концепции**
 
 </td>
 <td width="50%" valign="top">
 
-<h3>◈ eNet Labs</h3>
+### eNet Labs
 
-Экспериментальное направление команды. Новые идеи, прототипы, исследования и разработки.
+Здесь появляются новые идеи и прототипы. Не всё, что мы пробуем, становится отдельным продуктом. Но именно с экспериментов начинается разработка.
 
-**Статус:** Развитие направления
+**Исследования · Прототипы · Дизайн**
 
 </td>
 </tr>
 </table>
 
----
+## Над чем работаем
 
-## Направления разработки
+<table>
+<tr>
+<td align="center" width="25%"><b>◈</b><br/><b>Приложения</b><br/><sub>ПК и мобильные устройства</sub></td>
+<td align="center" width="25%"><b>▦</b><br/><b>Модификации</b><br/><sub>Новые возможности</sub></td>
+<td align="center" width="25%"><b>◎</b><br/><b>Telegram</b><br/><sub>Боты и клиенты</sub></td>
+<td align="center" width="25%"><b>✧</b><br/><b>Эксперименты</b><br/><sub>Необычные решения</sub></td>
+</tr>
+</table>
 
-<div align="center">
+## Наш подход
 
-<img src="https://img.shields.io/badge/01-Приложения-087EFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/02-Модификации-087EFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/03-Telegram_проекты-087EFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/04-Эксперименты-087EFF?style=for-the-badge" />
-
-</div>
-
----
-
-## Наши принципы
-
-| Принцип | Описание |
-|:---|:---|
-| **Качество** | Внимание к деталям и стабильности продуктов |
-| **Дизайн** | Современные интерфейсы и удобство использования |
-| **Развитие** | Постоянное совершенствование проектов |
-| **Самостоятельность** | Собственные идеи и независимые разработки |
+**Продуманный интерфейс.** Внешний вид должен помогать, а не мешать.  
+**Полезные функции.** Решаем реальные задачи и ищем новые сценарии.  
+**Развитие продуктов.** Улучшаем то, что уже выпустили, и пробуем новое.
 
 ---
 
 <div align="center">
-
-### Создаём больше, чем просто программы.
-
-**eNet Developer · 2026**
-
-[Telegram](https://t.me/enetwork_dev) · [GitHub](https://github.com/enet-debug)
-
+  <sub><b>eNet Developer</b> · Создаём больше, чем просто программы.</sub>
+  <br/>
+  <sub>© 2026 · <a href="https://t.me/enetwork_dev">Telegram сообщества</a></sub>
 </div>
