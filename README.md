@@ -1,89 +1,90 @@
 <div align="center">
 
 <a href="https://github.com/enet-debug">
-  <img src="./media/enet-banner.jpg" alt="eNet Developer · Приложения, модификации, новые идеи" width="100%" />
+  <img src="./media/enet-banner.jpg" width="100%" alt="eNet Developer — Приложения, модификации, новые идеи" />
 </a>
 
-<br/><br/>
+<br />
 
-**Независимая команда разработчиков цифровых продуктов.**  
-Создаём собственные приложения, модификации и инструменты, которыми приятно пользоваться.
+### Независимая команда разработчиков
 
-<br/>
+Мы создаём приложения, модификации и инструменты для цифрового мира.  
+От первых идей до работающих продуктов — с вниманием к интерфейсам и возможностям.
 
-<a href="https://t.me/enetwork_dev"><img src="./media/telegram.svg" height="44" alt="Telegram eNetwork"/></a>&nbsp;
-<a href="https://github.com/enet-debug?tab=repositories"><img src="./media/github.svg" height="44" alt="Репозитории GitHub"/></a>
+<br />
+
+<a href="https://t.me/enetwork_dev"><img src="./media/telegram.svg" height="43" alt="Канал eNet в Telegram" /></a>&nbsp;
+<a href="https://github.com/enet-debug?tab=repositories"><img src="./media/github.svg" height="43" alt="Репозитории eNet на GitHub" /></a>
 
 </div>
 
-<br/>
+<br />
 
-## Наши проекты
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://t.me/TraficWatchBot"><img src="./media/traficwatch.jpg" width="100%" alt="TraficWatch"/></a>
-
-**TraficWatch**  
-Telegram Business-бот для сохранения удалённых сообщений и истории правок, поиска по архиву и дополнительных инструментов безопасности.
-
-🟢 **Работает** · [Открыть бота](https://t.me/TraficWatchBot)
-
-</td>
-<td width="50%" valign="top">
-<a href="https://t.me/hudigram"><img src="./media/hudigram.jpg" width="100%" alt="HudiGram"/></a>
-
-**HudiGram**  
-Разрабатываемый альтернативный клиент Telegram с собственным интерфейсом и дополнительными возможностями.
-
-🔵 **В разработке** · [Новости проекта](https://t.me/hudigram)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./media/enet-app.jpg" width="100%" alt="eNet App"/>
-
-**eNet App**  
-Будущее приложение команды с каталогом модификаций, дополнений и собственных продуктов.
-
-⚪ **На стадии концепции**
-
-</td>
-<td width="50%" valign="top">
-
-### eNet Labs
-
-Здесь появляются новые идеи и прототипы. Не всё, что мы пробуем, становится отдельным продуктом. Но именно с экспериментов начинается разработка.
-
-**Исследования · Прототипы · Дизайн**
-
-</td>
-</tr>
-</table>
-
-## Над чем работаем
+## Проекты eNet
 
 <table>
-<tr>
-<td align="center" width="25%"><b>◈</b><br/><b>Приложения</b><br/><sub>ПК и мобильные устройства</sub></td>
-<td align="center" width="25%"><b>▦</b><br/><b>Модификации</b><br/><sub>Новые возможности</sub></td>
-<td align="center" width="25%"><b>◎</b><br/><b>Telegram</b><br/><sub>Боты и клиенты</sub></td>
-<td align="center" width="25%"><b>✧</b><br/><b>Эксперименты</b><br/><sub>Необычные решения</sub></td>
-</tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://t.me/TraficWatchBot"><img src="./media/traficwatch.jpg" width="100%" alt="TraficWatch — сохранение удалённых сообщений в Telegram" /></a>
+      <h3>TraficWatch</h3>
+      <p>Telegram Business-бот: сохранение удалённых сообщений и правок, поиск по архиву и инструменты защиты от мошенников.</p>
+      <p><strong>Статус:</strong> работает</p>
+      <p><a href="https://t.me/TraficWatchBot">Открыть бота</a> · <a href="https://t.me/enetwork_dev">Новости команды</a></p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://t.me/hudigram"><img src="./media/hudigram.jpg" width="100%" alt="HudiGram — альтернативный клиент Telegram" /></a>
+      <h3>HudiGram</h3>
+      <p>Альтернативный клиент Telegram с собственным оформлением и дополнительными возможностями. Проект находится в разработке.</p>
+      <p><strong>Статус:</strong> в разработке</p>
+      <p><a href="https://t.me/hudigram">Следить за проектом</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./media/enet-app.jpg" width="100%" alt="eNet App — будущая платформа модификаций" />
+      <h3>eNet App</h3>
+      <p>Концепция приложения для Windows и iPhone: каталог модификаций, дополнений и продуктов команды с единым визуальным стилем.</p>
+      <p><strong>Статус:</strong> формирование концепции</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>eNet Labs</h3>
+      <p>Пространство новых идей, прототипов и экспериментальных разработок команды.</p>
+      <p>Здесь мы исследуем возможности, которые со временем могут стать самостоятельными проектами.</p>
+      <p><strong>Фокус:</strong> эксперименты, интерфейсы, новые сценарии</p>
+    </td>
+  </tr>
 </table>
 
-## Наш подход
+## Чем мы занимаемся
 
-**Продуманный интерфейс.** Внешний вид должен помогать, а не мешать.  
-**Полезные функции.** Решаем реальные задачи и ищем новые сценарии.  
-**Развитие продуктов.** Улучшаем то, что уже выпустили, и пробуем новое.
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Приложения</strong><br/><sub>ПК и мобильные устройства</sub></td>
+    <td align="center" width="25%"><strong>Модификации</strong><br/><sub>Дополнения и кастомизация</sub></td>
+    <td align="center" width="25%"><strong>Telegram</strong><br/><sub>Боты и клиенты</sub></td>
+    <td align="center" width="25%"><strong>Эксперименты</strong><br/><sub>Идеи и прототипы</sub></td>
+  </tr>
+</table>
+
+## Как мы подходим к разработке
+
+**Дизайн.** Интерфейсы должны быть одновременно удобными и узнаваемыми.  
+**Функциональность.** Каждая возможность должна решать понятную задачу.  
+**Развитие.** Улучшаем действующие продукты и открываем новые направления.
 
 ---
 
 <div align="center">
-  <sub><b>eNet Developer</b> · Создаём больше, чем просто программы.</sub>
-  <br/>
-  <sub>© 2026 · <a href="https://t.me/enetwork_dev">Telegram сообщества</a></sub>
+
+<strong>eNet Developer</strong><br/>
+<sub>Создаём больше, чем просто программы.</sub>
+
+<br/><br/>
+
+<a href="https://t.me/enetwork_dev">Telegram команды</a> · <a href="https://github.com/enet-debug?tab=repositories">Репозитории</a>
+
+<br/><br/>
+
+<sub>© 2026 eNet</sub>
+
 </div>
