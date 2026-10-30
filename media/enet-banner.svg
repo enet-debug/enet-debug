@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="eNet Developer — приложения, модификации, новые идеи">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030816"/><stop offset=".53" stop-color="#071b36"/><stop offset="1" stop-color="#020611"/></linearGradient>
+  <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".42" stop-color="#d9f9ff"/><stop offset=".72" stop-color="#49d9ff"/><stop offset="1" stop-color="#157bff"/></linearGradient>
+  <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#003aee"/><stop offset=".46" stop-color="#27caff"/><stop offset="1" stop-color="#2974ff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#008bff" stop-opacity=".27"/><stop offset="1" stop-color="#008bff" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".85" fill="#5bcafa" opacity=".28"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+  <filter id="halo"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="24" fill="url(#dots)" opacity=".55"/>
+<circle cx="300" cy="164" r="275" fill="url(#glow)"/>
+<circle cx="1110" cy="-20" r="290" fill="url(#glow)" opacity=".6"/>
+<path d="M0 288 C175 208 306 344 506 285 S867 225 1200 305" fill="none" stroke="#0c80df" stroke-width="1.3" opacity=".37"/>
+<path d="M0 306 C190 244 322 366 519 310 S924 254 1200 319" fill="none" stroke="#23d5ff" stroke-width="1" opacity=".28"/>
+<path d="M870 0 L1070 190 L1200 106" stroke="#2673bc" stroke-width="1" fill="none" opacity=".25"/>
+<g transform="translate(237 171)">
+  <circle r="135" fill="#081936" opacity=".8"/>
+  <ellipse rx="151" ry="122" transform="rotate(-19)" fill="none" stroke="#0775ed" stroke-width="7" opacity=".22" filter="url(#halo)"/>
+  <ellipse rx="151" ry="122" transform="rotate(-19)" fill="none" stroke="url(#orbit)" stroke-width="4"/>
+  <text x="-73" y="75" font-size="219" font-style="italic" font-weight="800" font-family="Arial, Helvetica, sans-serif" fill="url(#ice)" letter-spacing="-16">e</text>
+  <circle cx="-142" cy="-25" r="19" fill="#2ccfff" opacity=".75" filter="url(#halo)"/>
+  <circle cx="-142" cy="-25" r="16" fill="url(#ice)"/>
+  <circle cx="132" cy="-93" r="15" fill="url(#ice)"/>
+  <circle cx="114" cy="122" r="17" fill="url(#ice)"/>
+  <circle cx="-112" cy="98" r="9" fill="#4be1ff"/>
+</g>
+<rect x="507" y="48" width="266" height="28" rx="14" fill="#0e3553" stroke="#225a83" stroke-width="1"/>
+<circle cx="525" cy="62" r="4" fill="#5be9ff"/>
+<text x="539" y="67" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#8fd9ff">DEVELOPMENT STUDIO</text>
+<text x="502" y="158" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="800" letter-spacing="-3" fill="url(#ice)">eNet</text>
+<text x="731" y="158" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="300" letter-spacing="-2" fill="#ffffff">Developer</text>
+<rect x="507" y="181" width="390" height="2" rx="1" fill="url(#orbit)"/>
+<text x="507" y="225" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#d9ecff">Приложения · Модификации · Новые идеи</text>
+<text x="508" y="268" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.5" fill="#75a9d8">BUILD  /  MODIFY  /  EXPLORE</text>
+<circle cx="1163" cy="37" r="3" fill="#5bcfff"/><circle cx="1139" cy="65" r="2" fill="#5bcfff" opacity=".5"/>
+<rect x=".5" y=".5" width="1199" height="339" rx="23.5" fill="none" stroke="#2b6486" opacity=".7"/>
+</svg>
