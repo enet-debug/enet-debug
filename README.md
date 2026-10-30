@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/enet-debug">
-  <img src="./media/enet-banner.svg" alt="eNet Developer · Приложения, модификации, новые идеи" width="100%" />
+  <img src="./media/enet-banner.jpg" alt="eNet Developer · Приложения, модификации, новые идеи" width="100%" />
 </a>
 
 <br/><br/>
@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://t.me/TraficWatchBot"><img src="./media/traficwatch.svg" width="100%" alt="TraficWatch"/></a>
+<a href="https://t.me/TraficWatchBot"><img src="./media/traficwatch.jpg" width="100%" alt="TraficWatch"/></a>
 
 **TraficWatch**  
 Telegram Business-бот для сохранения удалённых сообщений и истории правок, поиска по архиву и дополнительных инструментов безопасности.
@@ -32,7 +32,7 @@ Telegram Business-бот для сохранения удалённых сооб
 
 </td>
 <td width="50%" valign="top">
-<a href="https://t.me/hudigram"><img src="./media/hudigram.svg" width="100%" alt="HudiGram"/></a>
+<a href="https://t.me/hudigram"><img src="./media/hudigram.jpg" width="100%" alt="HudiGram"/></a>
 
 **HudiGram**  
 Разрабатываемый альтернативный клиент Telegram с собственным интерфейсом и дополнительными возможностями.
@@ -43,7 +43,7 @@ Telegram Business-бот для сохранения удалённых сооб
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="./media/enet-app.svg" width="100%" alt="eNet App"/>
+<img src="./media/enet-app.jpg" width="100%" alt="eNet App"/>
 
 **eNet App**  
 Будущее приложение команды с каталогом модификаций, дополнений и собственных продуктов.
