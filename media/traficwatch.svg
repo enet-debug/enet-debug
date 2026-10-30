@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="260" viewBox="0 0 580 260" role="img" aria-label="TraficWatch">
+ <defs><linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".65" stop-color="#0b1c31"/><stop offset="1" stop-color="#050b17"/></linearGradient><radialGradient id="light"><stop stop-color="#45f5b2" stop-opacity=".35"/><stop offset="1" stop-color="#45f5b2" stop-opacity="0"/></radialGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#45f5b2"/><stop offset="1" stop-color="#14a888" stop-opacity=".25"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7cafd0" stroke-opacity=".07"/></pattern></defs>
+ <rect x="1" y="1" width="578" height="258" rx="24" fill="url(#back)" stroke="url(#edge)" stroke-width="2"/>
+ <rect x="3" y="3" width="574" height="254" rx="22" fill="url(#grid)"/>
+ <circle cx="455" cy="128" r="147" fill="url(#light)"/>
+ <path d="M22 217 C147 183 292 257 567 191" fill="none" stroke="#45f5b2" stroke-opacity=".2"/>
+ <rect x="32" y="32" width="80" height="24" rx="12" fill="#45f5b2" fill-opacity=".12" stroke="#45f5b2" stroke-opacity=".5"/>
+ <text x="47" y="49" fill="#45f5b2" font-family="Arial,sans-serif" font-size="12" font-weight="700">eNET</text>
+ <text x="30" y="112" fill="#f3fbff" font-family="Arial,sans-serif" font-size="36" font-weight="700">TraficWatch</text>
+ <text x="32" y="149" fill="#b5d8ef" font-family="Arial,sans-serif" font-size="17">Telegram Business</text>
+ <text x="32" y="210" fill="#45f5b2" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.7" font-weight="700">АКТИВНЫЙ ПРОЕКТ</text>
+ <circle cx="459" cy="140" r="94" fill="none" stroke="#45f5b2" stroke-opacity=".15" stroke-width="1"/>
+ <path d="M462 71 L515 93 V145 C515 180 490 203 462 216 C434 203 409 180 409 145 V93Z" fill="#45f5b2" fill-opacity=".14" stroke="#45f5b2" stroke-width="4"/><path d="M439 145 L457 163 L485 127" fill="none" stroke="#e4fbff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+ </svg>
