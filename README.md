@@ -1,58 +1,88 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04140f,50:064e35,100:00d994&height=230&section=header&text=eNet%20Developer&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Build.%20Modify.%20Explore.&descAlignY=63&descSize=20" />
+<img src="assets/enet-banner.png" width="100%" alt="eNet Developer" />
 
-### Independent Development Team
+<br/>
 
-**We create software, modifications, and digital experiences.**
+# eNet Developer
 
-From Telegram tools to custom applications and experimental projects, we build things that make technology more interesting.
+### Независимая команда разработчиков
 
-[![Telegram](https://img.shields.io/badge/Telegram-eNetwork-00C78C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enetwork_dev)
-[![GitHub](https://img.shields.io/badge/GitHub-enet--debug-152A22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enet-debug)
+Создаём приложения, модификации и цифровые продукты.
+Исследуем новые возможности и превращаем идеи в работающие проекты.
+
+<br/>
+
+<a href="https://t.me/enetwork_dev">
+  <img src="https://img.shields.io/badge/Telegram-Сообщество-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://github.com/enet-debug">
+  <img src="https://img.shields.io/badge/GitHub-Репозитории-171717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## Our Projects
+## О команде
+
+**eNet Developer** — команда, объединяющая разработку программного обеспечения, модификации и экспериментальные цифровые проекты.
+
+Мы работаем над собственными продуктами, исследуем новые идеи и создаём инструменты, которые расширяют привычные возможности приложений.
+
+Наша цель — не просто выпускать программное обеспечение, а создавать продукты с собственным характером, продуманным интерфейсом и вниманием к деталям.
+
+---
+
+## Наши проекты
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡 TraficWatch
+<h3>◈ TraficWatch</h3>
 
-Telegram Business assistant for tracking deleted and edited messages, managing personal archives, and providing anti-scam features.
+Инструмент для Telegram Business, позволяющий сохранять историю изменений и удалённых сообщений, вести личный архив и использовать дополнительные инструменты безопасности.
 
-**Status:** Active
+**Статус:** Работает
 
-[Explore TraficWatch](https://t.me/TraficWatchBot)
+<a href="https://t.me/TraficWatchBot">
+<img src="https://img.shields.io/badge/Открыть_проект-00BFFF?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 HudiGram
+<h3>◈ HudiGram</h3>
 
-A custom Telegram client project focused on a new user experience and additional possibilities.
+Альтернативный клиент Telegram с собственным подходом к интерфейсу и пользовательскому опыту.
 
-**Status:** In Development
+**Статус:** В разработке
 
-[Follow HudiGram](https://t.me/hudigram)
+<a href="https://t.me/hudigram">
+<img src="https://img.shields.io/badge/Следить_за_проектом-00BFFF?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
 
-### ◈ eNet App
+<h3>◈ eNet App</h3>
 
-Our upcoming software and modifications hub.
+Будущая платформа для каталога модификаций, дополнений и собственных разработок команды.
 
-A unified place to discover projects, explore modifications, and manage supported content.
+**Статус:** Формирование концепции
 
-**Status:** Concept
+</td>
+<td width="50%" valign="top">
+
+<h3>◈ eNet Labs</h3>
+
+Экспериментальное направление команды. Новые идеи, прототипы, исследования и разработки.
+
+**Статус:** Развитие направления
 
 </td>
 </tr>
@@ -60,23 +90,36 @@ A unified place to discover projects, explore modifications, and manage supporte
 
 ---
 
-## What We Build
+## Направления разработки
 
-- **Applications** — software for desktop and mobile.
-- **Modifications** — custom experiences and enhancements.
-- **Telegram Tools** — bots, clients, and integrations.
-- **Experiments** — new ideas and creative projects.
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-Приложения-087EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Модификации-087EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-Telegram_проекты-087EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Эксперименты-087EFF?style=for-the-badge" />
+
+</div>
+
+---
+
+## Наши принципы
+
+| Принцип | Описание |
+|:---|:---|
+| **Качество** | Внимание к деталям и стабильности продуктов |
+| **Дизайн** | Современные интерфейсы и удобство использования |
+| **Развитие** | Постоянное совершенствование проектов |
+| **Самостоятельность** | Собственные идеи и независимые разработки |
 
 ---
 
 <div align="center">
 
-### The next experience starts here.
+### Создаём больше, чем просто программы.
 
-**eNet Developer © 2026**
+**eNet Developer · 2026**
 
-[Telegram Community](https://t.me/enetwork_dev)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04140f,50:064e35,100:00d994&height=110&section=footer" />
+[Telegram](https://t.me/enetwork_dev) · [GitHub](https://github.com/enet-debug)
 
 </div>
