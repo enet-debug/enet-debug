@@ -41,10 +41,12 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <img src="./media/enet-app.jpg" width="100%" alt="eNet App — будущая платформа модификаций" />
+      <a href="https://github.com/enet-debug/enet-app"><img src="./media/enet-app.jpg" width="100%" alt="eNet App — Flutter-приложение в разработке" /></a>
       <h3>eNet App</h3>
-      <p>Концепция приложения для Windows и iPhone: каталог модификаций, дополнений и продуктов команды с единым визуальным стилем.</p>
-      <p><strong>Статус:</strong> формирование концепции</p>
+      <p>Flutter-приложение eNet с экранами входа, регистрации, главной, уведомлений, профиля и настроек.</p>
+      <p><strong>Статус:</strong> MVP в разработке. Сборки Linux и Windows проверяются в CI; для iOS выполняется проверка сборки без подписи Apple.</p>
+      <p>Регистрация и вход требуют отдельно запущенного eNet API. Локальный API поддерживает учётные записи и сеансы; публичный сервис авторизации ещё готовится. Подтверждение email и восстановление пароля пока недоступны. Подписанного релиза для iPhone нет.</p>
+      <p><a href="https://github.com/enet-debug/enet-app">Код и инструкция запуска</a> · <a href="https://github.com/enet-debug/enet-app/actions">Сборки и проверки CI</a></p>
     </td>
     <td valign="top" width="50%">
       <img src="./media/enet-labs.jpg" width="100%" alt="eNet Labs — идеи и экспериментальные проекты" />
